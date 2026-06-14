@@ -82,7 +82,7 @@ local function ShowLoadingScreen(fromSg)
     end
 
     local sg = Instance.new("ScreenGui")
-    sg.Name = "N3XT x DARKSIDE_Loading"; sg.ResetOnSpawn = false
+    sg.Name = "N3XTxDARKSIDE_Loading"; sg.ResetOnSpawn = false
     sg.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
     sg.IgnoreGuiInset = true; sg.Parent = SafeGui
 
