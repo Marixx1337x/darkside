@@ -1,5 +1,7 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Seventix7/n3xt/refs/heads/main/n3xt.lua"))()
 
+task.wait(1)
+
 local Junkie = loadstring(game:HttpGet("https://jnkie.com/sdk/library.lua"))()
 Junkie.service    = "n3xt"
 Junkie.identifier = "1109067"
