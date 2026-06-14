@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Seventix7/n3xt/refs/heads/main/n3xt.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/sneekygoober/BloxStrike-Script-Keyless/refs/heads/main/bypass.luau"))();
 
 task.wait(1)
 
