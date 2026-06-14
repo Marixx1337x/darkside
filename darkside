@@ -130,7 +130,7 @@ local function ShowLoadingScreen(fromSg)
 
     local title = Instance.new("TextLabel", card)
     title.Size = UDim2.new(1,-48,0,50); title.Position = UDim2.new(0,24,0,62)
-    title.BackgroundTransparency = 1; title.Text = "N3XT  x DARKSIDE"
+    title.BackgroundTransparency = 1; title.Text = "N3XT x DARKSIDE"
     title.TextColor3 = WHITE; title.Font = Enum.Font.GothamBlack
     title.TextSize = 38; title.TextXAlignment = Enum.TextXAlignment.Left; title.ZIndex = 3
 
@@ -222,7 +222,7 @@ local function BuildKeyUI()
 
     local h1 = Instance.new("TextLabel", card)
     h1.Size = UDim2.new(1,-48,0,38); h1.Position = UDim2.new(0,24,0,68)
-    h1.BackgroundTransparency = 1; h1.Text = "Access N3XT  x DARKSIDE."
+    h1.BackgroundTransparency = 1; h1.Text = "Access N3XT x DARKSIDE."
     h1.TextColor3 = PURPLE; h1.Font = Enum.Font.GothamBlack
     h1.TextSize = 28; h1.TextXAlignment = Enum.TextXAlignment.Left; h1.ZIndex = 3
 
